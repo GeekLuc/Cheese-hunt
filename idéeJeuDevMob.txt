@@ -1,0 +1,31 @@
+idée : comme examen de math 
+
+joueur(une souris) récupére des collectibles (fromage) (spawn random sur la carte)  tout en évitant IA (random) (ennemie / obstacles) pour aller à la fin (son trou de souris / maison)
+
+obstacle : 
+- chat / chien + tasse / cartoon de céreals / etc  pour se cacher de l'animal
+- piege pour la souris ou les chats / chien
+
+Timer (1m / 2m par exemple) en décompte 
+
+score en lien avec timer ( - de temps restant = plus de point) + bonus de point sur la map comme a la pacman 
+
+vue : top down / vue de haut 
+
+pickup qui réapparait ou fixe ?
+
+prendre le choix de soit 
+recupérer peu de fromage puis rentré en sécurité et fin de partie 
+ou récupérer plus de fromage/point possible et jouer avec le feu avec le temps/obstacle et prendre le risque d'avoir un GameOver
+
+easter egg
+
+obstacles potentiel
+- balai / humain
+- mort au rats
+
++ obstacles inspiré du jeu societe "attrape souris"
+Système de vie ? 
+
+inspiration jeux mobile playstore : 
+"La course desnappy la souris"

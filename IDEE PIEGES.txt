@@ -1,0 +1,4 @@
+IDEE PIEGES : 
+- qqch qui colle et qui bloquerai le joueur / l'ennemi pendant qlq secondes OU qui le ralentirai ! 
+- pieges qui ferait perdre des points (//sonic qui pert des rings quand il est touché)
+- 

@@ -1,0 +1,40 @@
+Vue top down
+verticale 
+se deplacer avec un joystick
+
+joueurs : souris
+recoltable : fromages / fruits
+ennemies : Chat /piege
+environnement / decor : cuisine maison + meubles qui bloque
+2D Sprite 
+
+difficulté qui augmente au fil du temps
+
+TO DO LIST: 
+(ENNEMIE)
+- chat qui a une routine, se deplace 
+- chat qui a une routine différentes par lancement 
+- chat qui detecte la souris 
+- chat qui poursuit la souris (Ecran de Game Over)
+
+Facultatif
+- piege pour la souris / le chat 
+- les fruits (autre bonus supplementaire) 
+- la souris qui se cache pour échapper au chat (tasse, boite etc etc) 
+
+Facultatif ++
+- meubles qui bloque sur la carte 
+- classement de score
+
+A CONFIG : 
+- deplacement 
+- camera 
+- scène GameOver / Win
+
+FINI : 
+- spawn pick up
+- recup pick up
+- Scoring = pick up
+- pick up qui respawn apres une recup + 1/2s
+- Timer (0 ==> Scene gameover)
+- Rentre dans la maison ==> Win
